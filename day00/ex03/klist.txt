@@ -1,0 +1,5 @@
+Credentials cache: API:3711
+        Principal: dkaplan@WETHINKCODE.CO.ZA
+
+  Issued                Expires               Principal
+Jan  8 15:16:23 2018  Jan  9 01:16:23 2018  krbtgt/WETHINKCODE.CO.ZA@WETHINKCODE.CO.ZA
